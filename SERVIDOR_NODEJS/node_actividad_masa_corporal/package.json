@@ -1,0 +1,15 @@
+{
+  "name": "node_actividad_masa_corporal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "masa_corporal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yheison lanza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
